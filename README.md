@@ -4,21 +4,21 @@
 
 ###
 
-<h1 align="center">Hi there 👋, my name is Md Murad Hossain</h1>
+<h1 align="left">Hi there 👋, my name is Md Murad Hossain</h1>
 
 ###
 
-<p align="center">I'm Full-stack developer from Dhaka, Bangladesh</p>
+<p align="left">I'm Full-stack developer from Dhaka, Bangladesh</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=muradhossain1.muradhossain1&"  />
 </div>
 
 ###
 
-<h2 align="center">👩‍💻  About Me</h2>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -26,11 +26,11 @@
 
 ###
 
-<h2 align="center">🛠 Language and Frameworks Tools</h2>
+<h2 align="left">🛠 Language and Frameworks Tools</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -56,22 +56,22 @@
 
 ###
 
-<h2 align="center">🔥   My Stats</h2>
+<h2 align="left">🔥   My Stats</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muradhossain1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=muradhossain1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
 ###
 
-<h2 align="center">💌 Contact Me</h2>
+<h2 align="left">💌 Contact Me</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
