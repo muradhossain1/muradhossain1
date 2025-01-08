@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/174206538?v=4"  />
-</div>
+<img align="right" height="" src="https://avatars.githubusercontent.com/u/174206538?v=4"  />
 
 ###
 
@@ -75,7 +73,7 @@
   <a href="https://www.linkedin.com/in/md-murad-hossain-081036345" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:muradssq12@gmail.com" target="_blank">
+  <a href="muradssq12@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://x.com/MDMurad34810132" target="_blank">
