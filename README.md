@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="" src="https://avatars.githubusercontent.com/u/174206538?v=4"  />
+<img align="none" height="" src="https://i.ibb.co.com/tmm3jXv/Untitled-design.png"  />
 
 ###
 
