@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Hi there 👋, my name is Md Murad Hossain</h1>
+<h1 align="left" border="none">Hi there 👋, my name is Md Murad Hossain</h1>
 
 ###
 
