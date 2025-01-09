@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="none" height="" src="https://i.ibb.co.com/x37sywM/Untitled-design-1.png"  />
+<img align="none" height="" src="https://i.ibb.co.com/b5ytx1b/Technology-Linked-In-Banner-in-Blue-White-and-Grey-Modern-Style.png"  />
 
 ###
 
