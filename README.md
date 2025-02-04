@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm MD Murad Hossain, a passionate MERN Stack Developer with a strong focus on building scalable, secure, and interactive web applications. I particularly solving complex problems and continuously exploring new technologies to enhance user experience and system efficiency. My interest in learning more about web technologies at JavaScript, React, Node.js, Express.js, Firebase, Next.js, Typescript and MongoDB. <br><br>- 📚 I'm currently learning Node.js, Express.js, MongoDB<br>- ⚡ In my free time I like sports, listening to music, etc.</p>
+<p align="left">I'm MD Murad Hossain, a passionate MERN Stack Developer with a strong focus on building scalable, secure, and interactive web applications. I particularly solving complex problems and continuously exploring new technologies to enhance user experience and system efficiency. My interest in learning more about web technologies at JavaScript, React, Node.js, Express.js, Firebase, Next.js, Typescript and MongoDB. <br><br>- 📚 I'm currently learning Next.js, Express.js, MongoDB.<br>- ⚡ In my free time I like sports, listening to music, etc. <br>- 💻 Building personal projects and experimenting with new web technologies.</p>
 
 ###
 
