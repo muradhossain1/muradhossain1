@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a passionate Full-Stack Developer. As a dedicated web developer, I specialize in building scalable and interactive web applications using React, Node.js, Express.js, and MongoDB.</p>
+<p align="left">I'm a passionate MERN Stack Developer. As a dedicated web developer, I specialize in building scalable and interactive web applications using React, Node.js, Express.js, and MongoDB.</p>
 
 ###
 
