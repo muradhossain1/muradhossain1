@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="none" height="" src="https://i.ibb.co.com/20GVCTFd/github-cover.png"  />
+<img align="none" height="" src="https://i.ibb.co.com/20GVCTFd/Technology-Linked-In-Banner-in-Blue-White-and-Grey-Modern-Style-1.png"  />
 
 ###
 
