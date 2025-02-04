@@ -94,6 +94,6 @@
 
 ###
 
-<h3 align="left">Thank You For Watching...</h3>
+<h3 align="left">Thank you for visiting us!</h3>
 
 ###
