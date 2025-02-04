@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">Hi there 👋, my name is Md Murad Hossain</h1>
+<h1 align="left">Hi there 👋, My name is MD Murad Hossain</h1>
 
 ###
 
-<p align="left">I'm Full-stack developer from Dhaka, Bangladesh</p>
+<p align="left">I'm a passionate Full-Stack Developer. As a dedicated web developer, I specialize in building scalable and interactive web applications using React, Node.js, Express.js, and MongoDB.</p>
 
 ###
 
